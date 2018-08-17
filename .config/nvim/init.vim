@@ -71,3 +71,5 @@ let g:ale_fixers = {
 let g:fzf_buffers_jump = 1
 nnoremap <leader>f :GitFiles<cr>
 nnoremap <leader>t :tabnew<cr>:e<space>
+
+set number
